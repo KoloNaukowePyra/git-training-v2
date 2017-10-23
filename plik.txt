@@ -18,15 +18,9 @@
 18.
 19.
 20. 
-21.
-22.
-23.
-24. Dawid Lasek 21,10,2017
-25.
-26.
 21. Ivan Vasyliev
 22.
 23.
-24.
+24. Dawid Lasek 21,10,2017
 25. Jakub Góralczyk
-26.
+26. witam serdecznie, oto ja
